@@ -1,7 +1,7 @@
 # Hi there, I'm Charlie Atkinson 👋 🤖
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio / Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://charlesxatkinson.co.uk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/charliexavatkinson)
+[![Portfolio / Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://charlieatkinson.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charlie@charlesxatkinson.co.uk)
 
 ---
@@ -18,7 +18,7 @@ I am a **Robotics & AI Graduate** from the **University of Hull** 🇬🇧 (with
 
 ## 🛠️ Tech Stack & Skills
 
-### 💻 Languages
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -39,15 +39,11 @@ I am a **Robotics & AI Graduate** from the **University of Hull** 🇬🇧 (with
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
 
-## 📊 GitHub Stats
+## 🌍 Spoken Languages
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-</div>
-
+![English](https://img.shields.io/badge/English-Native%20%2F%20Fluent-00247D?style=for-the-badge&logo=england&logoColor=white)
+![Mandarin Chinese](https://img.shields.io/badge/Mandarin-Chinese-DE2910?style=for-the-badge&logoColor=white)
 ---
 
 ## 📫 Connect With Me
