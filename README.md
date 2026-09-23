@@ -1,12 +1,57 @@
-I’m a Robotics and AI graduate from the University of Hull with full right to work in the UK, focused on building practical, production-ready machine learning solutions and intelligent systems.
+# Hi there, I'm Charlie Atkinson 👋 🤖
 
-My background bridges applied machine learning, data engineering, and automation. Rather than staying purely theoretical, I focus on end-to-end implementation, from architecting cloud pipelines to training and deploying models. Recent hands-on work includes developing bidirectional LSTMs for NLP tasks, deploying predictive classification models, and configuring cloud data ingestion pipelines on AWS.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Portfolio / Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://charlesxatkinson.co.uk)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charlie@charlesxatkinson.co.uk)
 
-Technical Skills:
-• Languages: Python, C#, JavaScript, Arduino C++
-• Data & ML: TensorFlow, Scikit-learn, Pandas, NumPy, NLP, Computer Vision
-• Tools & Cloud: AWS (S3, QuickSight), Jupyter, ROS2, Linux
+---
 
-I am currently seeking Junior Machine Learning Engineer, Junior Data Scientist, or AI/Tech Analyst opportunities across the UK (open to London, regional hubs, and hybrid/remote setups).
+## 🚀 About Me
 
-Feel free to connect directly here or reach out via email at charlie@charlesxatkinson.co.uk.
+I am a **Robotics & AI Graduate** from the **University of Hull** 🇬🇧 (with full right to work in the UK), focused on bridging the gap between theoretical models and practical, production-ready intelligent systems.
+
+- 🧠 **Focus Areas:** Applied Machine Learning, Data Engineering & Intelligent Automation.
+- 🛠️ **Hands-on Experience:** Architecting cloud data pipelines on AWS, training bidirectional LSTMs for NLP, deploying predictive classification models, and developing robotics applications.
+- 🎯 **Current Objective:** Seeking **Junior Machine Learning Engineer**, **Junior Data Scientist**, or **AI/Tech Analyst** roles across the UK (London, regional hubs, and hybrid/remote).
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 🧠 Data Science & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-Natural_Language_Processing-blue?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-OpenCV-brightgreen?style=for-the-badge)
+
+### ☁️ Cloud, Tools & Platforms
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+</div>
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 **Portfolio:** [charlesxatkinson.co.uk](https://charlesxatkinson.co.uk)
+- 💼 **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://linkedin.com)
+- ✉️ **Email:** [charlie@charlesxatkinson.co.uk](mailto:charlie@charlesxatkinson.co.uk)
