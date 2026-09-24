@@ -1,6 +1,6 @@
 # Hi there, I'm Charlie Atkinson 👋 🤖
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/charliexavatkinson)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/charliexavatkinson)
 [![Portfolio / Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://charlieatkinson.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charlie@charlesxatkinson.co.uk)
 
@@ -39,13 +39,10 @@ I am a **Robotics & AI Graduate** from the **University of Hull** 🇬🇧 (with
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
-## 🌍 Spoken Languages
-
-<img src="assets/uk-flag-round.svg" height="40px" alt="English (Native / Fluent)" />
-<img src="assets/chinese-flag-round.svg" height="40px" alt="Mandarin Chinese" />
+---
 
 ## 📫 Connect With Me
 
-- 🌐 **Portfolio:** [charlesxatkinson.co.uk](https://charlesxatkinson.co.uk)
-- 💼 **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://linkedin.com)
+- 🌐 **Portfolio:** [charlieatkinson.github.io](https://charlieatkinson.github.io)
+- 💼 **LinkedIn:** [linkedin.com/in/charliexavatkinson](https://linkedin.com/in/charliexavatkinson)
 - ✉️ **Email:** [charlie@charlesxatkinson.co.uk](mailto:charlie@charlesxatkinson.co.uk)
